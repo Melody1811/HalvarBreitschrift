@@ -1,0 +1,434 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    background-color: rgb(0, 0, 0);
+    width: 100%;  
+}
+
+h2{
+    font-family: "HalvarBreit-BlkSlanted";
+    font-size: 80px;
+    color: white;
+}
+
+/* 1 название */
+.screen1{
+    width: 100%;
+    height: 900px;
+}
+
+.halvar{
+    text-align: center;
+    font-family: "HalvarBreit-Blk";
+    font-size: 145px;
+    margin-top: 100%;
+    color: rgb(255, 255, 255);
+}
+
+.start{
+    font-family: "HalvarBreit-Bd"; 
+    color: #31B72E; 
+    font-size: 60px; 
+    text-align: center; 
+    margin-top: 7.5%;
+}
+
+.photo1{
+    width: 100%;
+    margin-top: -5%;
+}
+
+div#header { 
+    width: 100%;
+}
+
+.tekst {
+    top: 50%;
+    left: 65px;
+    color: white;
+    padding: 10px;
+    margin-top: -45%;
+    text-align: center;
+    font-family: HalvarBreit-Blk;
+    font-size: 150px;
+    text-align: center;
+}
+
+
+/* 2 описание */
+.screen2{
+    width: 100%;
+    height: 900px;
+}
+
+.textik{
+    margin-top: -60%;
+    padding-left: 9%;
+    font-family: HalvarBreit-Rg;
+    font-size: 30px;
+    color: white;
+}
+.hi{
+    font-family: "HalvarBreit-Md";
+    font-size: 96px;
+    color: rgb(0, 0, 0);
+    margin-top: 20%;
+    padding-left: 59.5%;
+}
+
+.photo2{
+    width: 100%;
+    margin-top: -5%;
+}
+
+/* 3 создатели */
+.screen3{
+    width: 100%;
+    height: 995px;
+}
+.photo3{
+    width: 100%;
+    margin-top: -5%;
+}
+.text1{
+    margin-top: 3%;
+    padding-left: 9%;
+    font-family: HalvarBreit-Rg;
+    font-size: 40px;
+    color: white;
+}
+.text2{
+    color: white;
+    text-align: center;
+    margin-top: -3%;
+    font-family: HalvarBreit-Rg;
+    font-size: 48px;
+}
+.text3{
+    margin-top: -3%;
+    padding-right: 9%;
+    text-align: end;
+    font-family: HalvarBreit-Rg;
+    font-size: 40px;
+    color: white;
+}
+.heading{
+    margin-top: -62%;
+    padding-left: 5%;
+}
+.number2{
+    margin-top: -5%;
+    text-align: end;
+    padding-right: 5%;
+}
+
+/* 4 начертания*/
+.screen4{
+    width: 100%;
+    height: 1047px;
+}
+.photo4{
+    width: 100%;
+    margin-top: -5%;
+}
+.heading3{
+    margin-top: -69%;
+    padding-left: 5%;
+}
+.number3{
+    margin-top: -5%;
+    text-align: end;
+    padding-right: 5%;
+}
+.Breit{
+    font-family: "HalvarBreit-Blk";
+    font-size: 90px;
+    color: #FFF500;
+    padding-left: 5%;
+    margin-top: 7%;
+}
+
+/* 5 характеристики */
+.screen5{
+    width: 100%;
+    height: 780px;
+}
+.photo5{
+    width: 100%;
+    margin-top: -3%;
+}
+.heading4{
+    margin-top: -49%;
+    padding-left: 5%;
+}
+.number4{
+    margin-top: -5%;
+    text-align: end;
+    padding-right: 5%;
+}
+
+.numbers{
+    font-family: HalvarBreit-Bd;
+    color:white;
+    font-size: 96px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+    margin-top: 20%;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+.description{
+    font-family: HalvarBreit-Bd;
+    color:white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-left: 23%;
+    padding-right: 25%;
+
+}
+
+/* 6 наклонные */
+
+.photo6{
+    width: 100%;
+    margin-top: -3%;
+}
+
+div#six { 
+    width: 100%;
+    height: 1011px;
+}
+
+.numbers02{
+    font-family: HalvarBreit-Bd;
+    color:white;
+    font-size: 64px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+    margin-top: -17%;
+    padding-left: 10%;
+    padding-right: 25%;
+
+}
+
+.heading5{
+    margin-top: -55%;
+    padding-left: 5%;
+}
+.number5{
+    margin-top: -5%;
+    text-align: end;
+    padding-right: 5%;
+}
+
+
+/* 7 все начертания */
+.photo7{
+    width: 100%;
+    margin-top: -3%;
+}
+div#seven { 
+    width: 100%;
+    height: 2295px;
+}
+
+.heading6{
+    margin-top: -138%;
+    padding-left: 20%;
+    color: black;
+    font-family: "HalvarBreit-BlkSlanted";
+    font-size: 80px;
+    
+}
+.number6{
+    margin-top: -5%;
+    text-align: end;
+    padding-right: 14%;
+    font-family: "HalvarBreit-BlkSlanted";
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+}
+
+.nomer{
+    font-size: 70px;
+    font-family: "HalvarBreit-Th";
+    margin-top: 73.5%;
+    padding-left: 22.5%;
+
+}
+
+.jump{
+    color: #31B72E;
+    font-size: 49px;
+    font-family: "HalvarBreit-XBd";
+    margin-top: 17.5%;
+    padding-left: 37%;
+
+}
+
+.level{
+    font-family: "HalvarBreit-BdSlanted";
+    font-size: 40px;
+    color: white;
+    margin-top: -30%;
+    padding-left: 18%;
+}
+
+/* 8 особенности */
+.photo8{
+    width: 100%;
+    margin-top: 3%;
+    
+}
+div#eight { 
+    width: 100%;
+    height: 1270px;
+}
+.heading7{
+    margin-top: -80%;
+    padding-left: 5%;
+}
+.number7{
+    margin-top: -5%;
+    text-align: end;
+    padding-right: 5%;
+}
+
+.group{
+    margin-top: -100%;
+    padding-left: 17.5%;
+    margin-bottom: 74%;
+
+}
+
+.t1{
+    font-size: 32px;
+    font-family: "HalvarBreit-Lt";
+    color: white;
+    padding-left: 40%;
+    margin-top: 5%;
+}
+
+.t2{
+    font-size: 32px;
+    font-family: "HalvarBreit-Lt";
+    color: white;
+    padding-left: 5%;
+    margin-top: 32%;
+}
+
+/* 9 компьютер */
+.photo9{
+    width: 100%;
+    margin-top: 4%;
+}
+div#nine { 
+    width: 100%;
+    height: 1398px;
+}
+.heading8{
+    margin-top: -108%;
+    padding-left: 5%;
+}
+.number8{
+    margin-top: -5%;
+    text-align: end;
+    padding-right: 5%;
+}
+
+.t3{
+    font-size: 26px;
+    font-family: "HalvarBreit-Lt";
+    color: white;
+    padding-left: 25%;
+    margin-top: 11%;
+}
+
+/* 10  */
+
+.photo10{
+    width: 100%;
+    margin-top: 4%;
+}
+div#ten { 
+    width: 100%;
+    height: 1862px;
+    /* height: 1606px; */
+}
+.heading9{
+    margin-top: -125%;
+    padding-left: 5%;
+}
+.number9{
+    margin-top: -5%;
+    text-align: end;
+    padding-right: 5%;
+}
+
+.t4{
+    font-size: 26px;
+    font-family: "HalvarBreit-Lt";
+    color: white;
+    padding-left: 5%;
+    margin-top: 7%;
+}
+
+.t5{
+    font-family: "HalvarBreit-Blk";
+    font-size: 96px;
+    color: #31B72E;
+    margin-top: 30%;
+    padding-left: 12%;
+}
+
+.bye{
+    font-family: "HalvarBreit-Bd";
+    font-size: 64px;
+    color: white;
+    margin-top: 26.5%;
+    padding-left: 52.1%;
+}
+
+/* 11 */
+.photo11{
+    width: 100%;
+    margin-top: 10%;
+}
+div#eleven { 
+    width: 100%;
+    height: 1361px;
+}
+
+.game{
+    color: #31B72E;
+    top: 50%;
+    left: 65px;
+    
+    padding: 10px;
+    margin-top: -67.5%;
+    padding-left: 3%;
+    text-align: center;
+    font-family: HalvarBreit-Blk;
+    font-size: 120px;
+    text-align: center;
+}
+
+.end{
+    font-family: HalvarBreit-Md;
+    color:white;
+    font-size: 40px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50%;
+    margin-bottom: -60%;
+}
